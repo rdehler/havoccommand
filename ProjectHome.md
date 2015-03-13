@@ -1,0 +1,1 @@
+Havoc Command is a turn based strategy game for Windows, featuring voiced dialog, a tutorial, saving/loading, and 4 feature rich levels.
